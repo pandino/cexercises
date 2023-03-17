@@ -2,6 +2,8 @@
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,c,linux
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,c,linux
 
+builddir/
+
 ### C ###
 # Prerequisites
 *.d
